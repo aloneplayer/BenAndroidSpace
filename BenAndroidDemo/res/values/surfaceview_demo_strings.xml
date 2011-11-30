@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="surfaceview_Demo_Title">SurfaceView Demos</string>
+    <string name="label_surfaceview_Smallball">撞球</string>
+
+</resources>

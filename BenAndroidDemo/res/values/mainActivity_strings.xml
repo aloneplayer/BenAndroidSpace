@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_label_title">Ben\'s Android Demo</string>
+    <string name="app_name">Ben\'s Android Demo</string>
+    <string name="main_label_surfaceViewTest">Surface View 演示</string>
+    <string name="main_label_optionMenu">Option Menu 演示</string>
+    <string name="main_label_Threading">Threading 演示</string>
+</resources>

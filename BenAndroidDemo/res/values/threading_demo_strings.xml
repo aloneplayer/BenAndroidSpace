@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Threading_Demo_Title">Threading Demos</string>
+    <string name="label_Threading_Join">Join</string>
+    <string name="Thread_Join_Demo_Title">Thread Join Demos</string>
+ 	<string name="label_Threading_StartThreadJoin">Start Thread and Join</string>
+</resources>

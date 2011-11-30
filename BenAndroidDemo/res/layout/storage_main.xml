@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Storage Demos" />
+
+    <Button
+        android:id="@+id/button_Preference"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Shared Preference" />
+
+    <Button
+        android:id="@+id/button_File"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dip"
+        android:text="File" />
+
+    <Button
+        android:id="@+id/button_Network"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dip"
+        android:text="Network" />
+
+    <Button
+        android:id="@+id/button_SQLite"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dip"
+        android:text="SQLite" />
+
+</LinearLayout>
