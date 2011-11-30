@@ -1,6 +1,7 @@
 *.class
 *.jar
-build
-dist
-bin
+/*/build/
+/*/dist/
+/*/bin/
 .metadata
+.gitignore/
