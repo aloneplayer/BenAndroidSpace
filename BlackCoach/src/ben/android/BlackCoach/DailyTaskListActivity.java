@@ -4,5 +4,5 @@ import android.app.ListActivity;
 
 public class DailyTaskListActivity extends ListActivity
 {
-	private int a;
+    private int a;
 }
