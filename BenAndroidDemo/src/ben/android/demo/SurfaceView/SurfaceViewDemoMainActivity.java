@@ -18,7 +18,6 @@ public class SurfaceViewDemoMainActivity extends Activity
 		Button button_Movement = (Button) findViewById(R.id.button_surfaceViewTest);
 		button_Movement.setOnClickListener(new OnClickListener()
 		{
-			@Override
 			public void onClick(View arg0)
 			{
 				Intent intent = new Intent();

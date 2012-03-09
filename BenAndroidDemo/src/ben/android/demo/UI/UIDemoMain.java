@@ -38,7 +38,6 @@ public class UIDemoMain extends Activity implements OnClickListener
 
 	}
 
-	@Override
 	public void onClick(View button)
 	{
 		// TODO Auto-generated method stub

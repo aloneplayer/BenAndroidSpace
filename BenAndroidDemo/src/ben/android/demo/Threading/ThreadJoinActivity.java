@@ -21,7 +21,6 @@ public class ThreadJoinActivity extends Activity
 		Button button_Threading_Join = (Button) findViewById(R.id.button_Threading_Join);
 		button_Threading_Join.setOnClickListener(new OnClickListener()
 		{
-			@Override
 			public void onClick(View view)
 			{
 				String text = (String) ((Button)view).getText();
