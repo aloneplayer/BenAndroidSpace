@@ -3,10 +3,10 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="vertical" >
-
-    <TextView
+      
+   <Button android:id="@+id/button_OpenTaskList"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/hello" />
-
+        android:text="@string/button_Text_OpenTaskList"/>
+    
 </LinearLayout>
