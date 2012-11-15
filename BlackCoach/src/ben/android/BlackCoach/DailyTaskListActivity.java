@@ -3,7 +3,6 @@ package ben.android.BlackCoach;
 import android.app.ListActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
-import android.widget.ListView;
 
 public class DailyTaskListActivity extends ListActivity
 {

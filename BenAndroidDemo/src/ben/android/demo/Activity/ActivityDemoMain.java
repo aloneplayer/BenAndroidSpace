@@ -1,6 +1,5 @@
 package ben.android.demo.Activity;
 
-import ben.android.demo.R;
 import android.app.Activity;
 import android.os.Bundle;
 
